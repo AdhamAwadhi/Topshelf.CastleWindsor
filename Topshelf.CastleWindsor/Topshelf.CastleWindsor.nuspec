@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Topshelf.CastleWindsor</id>
+    <version>1.0.0</version>
+    <title>Topshelf.CastleWindsor</title>
+    <authors>Alexandr Nikitin</authors>
+    <licenseUrl>https://github.com/adhamawadhi/Topshelf.CastleWindsor/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/adhamawadhi/Topshelf.CastleWindsor</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Topshelf.CastleWindsor provides extensions to construct your service class from your Castle Windsor IoC container.</description>
+    <releaseNotes>Updated dependencies to use new versions</releaseNotes>
+    <copyright>© 2016 Adham Awadhi. All rights reserved.</copyright>
+    <tags>Topshelf CastleWindsor</tags>
+    <dependencies>
+      <dependency id="Castle.Windsor" version="[3.3.0,)" />
+      <dependency id="TopShelf" version="[4.0.1,5.0.0)" />
+    </dependencies>
+  </metadata>
+</package>

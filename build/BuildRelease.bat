@@ -1,0 +1,1 @@
+msbuild ..\Topshelf.CastleWindsor\Topshelf.CastleWindsor.csproj /p:Configuration=Release /p:Platform=AnyCpu
